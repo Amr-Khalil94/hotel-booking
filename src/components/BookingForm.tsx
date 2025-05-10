@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, type FormEvent } from "react"
 import { useBooking } from "../context/BookingContext"
 
